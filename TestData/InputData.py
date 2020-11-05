@@ -38,8 +38,8 @@ class InputData:
         "service":"Driver License and ID Cards", #options listed above
         "first_name":"fiona",
         "last_name":"yang",
-        "emailaddress":"fiona.yang28@gmail.com",
-        "phone":"6468306049",
+        "emailaddress":"fiona.yang###@gmail.com",
+        "phone":"646830####",
          "office":"East Tampa Branch, 2814 E Hillsborough Ave, Tampa", #options listed above
          "choose_date":datetime(2020,12,3),
          "timeslot":'12/3/2020 3:00:00 PM'
